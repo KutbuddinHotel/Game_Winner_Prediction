@@ -1,3 +1,11 @@
+## 📊 Dataset
+The dataset used in this project is quite large and cannot be uploaded to GitHub due to size limitations.
+
+You can download the dataset from the link below:
+https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1012-GameWinnerPred.zip
+
+After downloading, extract the zip file and place the dataset in the project folder before running the notebook. 
+
 # 🎮 Game Winner Prediction
 
 A machine learning project to predict a player's winning percentage (`winPlacePerc`) in PUBG matches using player-level gameplay statistics.
