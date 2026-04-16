@@ -81,9 +81,4 @@ This project analyzes a large PUBG dataset with 4.4 million+ rows and 29 feature
 - Outdated ranking columns (killPoints, winPoints) had to be removed
 - 16 different match types made comparison complex
 
----
 
-## 👤 Author
-
-**Kutbuddin**  
-BBA Graduate | Aspiring Data Analyst
