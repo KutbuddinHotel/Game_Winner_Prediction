@@ -1,4 +1,4 @@
-# 🎮 PUBG Game Winner Prediction
+# 🎮 Game Winner Prediction
 
 A machine learning project to predict a player's winning percentage (`winPlacePerc`) in PUBG matches using player-level gameplay statistics.
 
